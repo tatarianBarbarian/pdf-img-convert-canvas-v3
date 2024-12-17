@@ -1,6 +1,6 @@
 {
   "name": "pdf-img-convert-canvas-v3",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A simple module to convert PDF files into image buffers (without filesystem usage). This is a temporary ad-hoc solution. Please, use original pdf-image-convert package if possible. This one solves 'canvas' library installation issues on some systems.",
   "main": "pdf-img-convert.js",
   "types": "pdf-img-convert.d.ts",
